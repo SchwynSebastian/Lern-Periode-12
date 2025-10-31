@@ -22,8 +22,6 @@
 
 ## 31.10.2025
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Neue Praktikumstellen finden
 
-✍️ Heute habe ich
+✍️ Heute habe ich viele verschiedene Firmen für einen Prakitkumsplatz gesucht. Ich habe über 5 Firmen gefunden woran ich interessiert bin und welche entweder ein IMS Inserat oder eine Spontanbewerbungs ausgeschrieben haben.
