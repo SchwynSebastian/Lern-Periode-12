@@ -31,18 +31,18 @@
 - [x] Firmen für ein IMS Praktikum oder Spontanbewerbung suchen
 - [x] Bewerbungsgespräch
 
-✍️ Heute habe ich
+✍️ Heute habe ich mich mit verschiedenen Firmen gefasst. Mir kamen 2 Firmen ins Auge, die mir aber schlussendlich beide eine Absage zuschiecken liess. Ich habe auch ein Bewerbungsgespräch geführt und gutes Feedback erhalten.
 
 ## 21.11.2025
 
 - [x] Firmen für ein IMS Praktikum oder Spontanbewerbung suchen
 - [x] Java tutorials und allgemeines über Java lernen
 
-✍️ Heute habe ich
+✍️ Heute habe ich mich weiter auf die Firmensuche konzentriert, als ich ein paar IT-Firmen in der nähe angeschrieben habe, kam mir in Sinn, dass die meisten Firmen JAVA benutzen und fing an die Grundlage von Java zu lernen, mittels tutorials und eine leichte Recherche.
 
 ## 28.11.2025
 
-- [ ] 
-- [ ] 
+- [ ] Firmen für ein IMS Praktikum oder Spontanbewerbung suchen
+- [ ] verschiedene Programmiersprachen vergleichen
 
 ✍️ Heute habe ich
