@@ -25,3 +25,24 @@
 - [x] Neue Praktikumstellen finden
 
 ✍️ Heute habe ich viele verschiedene Firmen für einen Prakitkumsplatz gesucht. Ich habe über 5 Firmen gefunden woran ich interessiert bin und welche entweder ein IMS Inserat oder eine Spontanbewerbungs ausgeschrieben haben.
+
+## 7.11.2025
+
+- [x] Firmen für ein IMS Praktikum oder Spontanbewerbung suchen
+- [x] Bewerbungsgespräch
+
+✍️ Heute habe ich
+
+## 21.11.2025
+
+- [x] Firmen für ein IMS Praktikum oder Spontanbewerbung suchen
+- [x] Java tutorials und allgemeines über Java lernen
+
+✍️ Heute habe ich
+
+## 28.11.2025
+
+- [ ] 
+- [ ] 
+
+✍️ Heute habe ich
